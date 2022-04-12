@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>SISTEM PENGURUSAN KOLEJ VOKASIONAL PERDAGANGAN</title>
+	<title>SISTEM PENGURUSAN KOLEJ VOKASIONAL PERDAGANGAN 2022</title>
 </head>
 <body>
 	<center><img src="kvpjb.jpg" width="700"></center>
